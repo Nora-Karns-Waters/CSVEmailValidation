@@ -1,0 +1,13 @@
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.exe
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.csprojAssemblyReference.cache
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.AssemblyInfoInputs.cache
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.AssemblyInfo.cs
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.deps.json
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.runtimeconfig.json
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.runtimeconfig.dev.json
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.dll
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\bin\Debug\netcoreapp3.1\ExcelReader.pdb
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.dll
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.pdb
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.genruntimeconfig.cache
+E:\Professional\Old Interview Documents\GDC Technical Assignment\ExcelReader\obj\Debug\netcoreapp3.1\ExcelReader.csproj.CoreCompileInputs.cache
